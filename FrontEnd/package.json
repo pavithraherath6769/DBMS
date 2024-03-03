@@ -1,6 +1,6 @@
 {
-  "name": "ms_trancoder_recorder_recovery_utility_console",
-  "version": "1.0.8.28-beta.1",
+  "name": "DBMS",
+  "version": "1.0.0.0",
   "homepage": " http://localhost:3000",
   "private": true,
   "dependencies": {
